@@ -1,5 +1,7 @@
 # Build Cheat Engine with **Lazarus**
 
+> I've haven't fully patched the project, it's still works under in-development patches.
+
 This guide will help you build Cheat Engine using Lazarus, the open-source Delphi-like IDE.
 
 ## Prerequisites
